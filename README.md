@@ -7,9 +7,11 @@
    <a href="https://wa.me/5573998153668?text=Olá" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-Q69?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
 </div>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegooliveiraweb&label=Profile%20views&color=0e75b6&style=flat" alt="diegooliveiraweb" align="left"  /> </p>
+<br>
 <div align="left"> <img align="left" src="https://github-profile-trophy.vercel.app/?username=diegooliveiraweb&theme=onedark&rank=SSS,SS,S,AA,B,SECRET" alt="diegooliveiraweb" /></div>
-
+<br>
 <h3 align="left">Liguagens e feramentas:</h3>
 <div align="left">
     <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="color: none !important"> 
