@@ -2,7 +2,7 @@
 <h3 align="center">Apaixonado por tecnologia e programação, um entusiasta fervoroso.</h3>
 <div align="center"> 
    <a href="https://www.instagram.com/diegooliveira2504" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/diego-oliveira-b9a755209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/diego-oliveira-b9a755209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
    <a href = "mailto:diego9123msi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://wa.me/5573998153668?text=Olá%W" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-Q69?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
