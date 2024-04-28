@@ -1,4 +1,4 @@
-<h1 align="center">Salve 👋, Diego aqui</h1>
+<h1 align="center">Salve 👋</h1>
 <h3 align="center">Apaixonado por tecnologia e programação, um entusiasta fervoroso.</h3>
 <div align="center"> 
    <a href="https://www.instagram.com/diegooliveira2504" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
