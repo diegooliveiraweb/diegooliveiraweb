@@ -1,9 +1,9 @@
 <h1 align="center">Salve 👋, Diego aqui</h1>
 <h3 align="center">Apaixonado por tecnologia e programação, um entusiasta fervoroso.</h3>
 <div>
-  <a href="https://github.com/wagnersillva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wagnersillva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnersillva&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/diegooliveiraweb">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegooliveiraweb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegooliveiraweb&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegooliveiraweb&label=Profile%20views&color=0e75b6&style=flat" alt="diegooliveiraweb" /> </p>
 
