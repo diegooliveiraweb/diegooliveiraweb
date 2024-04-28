@@ -4,9 +4,13 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=diegooliveiraweb" alt="diegooliveiraweb" /></p>
 
 <h3 align="left">Redes sociais:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/diegooliveira2504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diegooliveira2504" height="30" width="40" /></a>
-</p>
+<div> 
+   <a href="https://www.instagram.com/diegooliveira2504" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/diego-oliveira-b9a755209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:diego9123msi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://wa.me/5573998153668?text=Olá%W" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-Q69?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+
+</div>
 
 <h3 align="left">Liguagens e feramentas:</h3>
 <div>
