@@ -11,7 +11,6 @@
 <p> <img src="https://komarev.com/ghpvc/?username=diegooliveiraweb&label=Profile%20views&color=0e75b6&style=flat" alt="diegooliveiraweb"  /> </p>
 <br>
 <div> <img src="https://github-profile-trophy.vercel.app/?username=diegooliveiraweb&theme=onedark&rank=SSS,SS,S,AA,B,SECRET" alt="diegooliveiraweb" /></div>
-<br>
 <h3>Liguagens e feramentas:</h3>
 <div>
     <p> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="color: none !important"> 
