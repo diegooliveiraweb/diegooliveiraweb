@@ -8,7 +8,7 @@
 
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diegooliveiraweb&label=Profile%20views&color=0e75b6&style=flat" alt="diegooliveiraweb" align="center"  /> </p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=diegooliveiraweb&theme=onedark&rank=SSS,SS,S,AA,B,SECRET" alt="diegooliveiraweb" align="center" /></p>
+<div align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=diegooliveiraweb&theme=onedark&rank=SSS,SS,S,AA,B,SECRET" alt="diegooliveiraweb" /></div>
 
 <h3 align="center">Liguagens e feramentas:</h3>
 <div align="center">
